@@ -1,0 +1,12 @@
+span.ui-slider-handle.ui-corner-all.ui-state-default {
+    border-radius: 50%;
+}
+
+.ui-widget.ui-widget-content {
+    border: 1px solid #d7d7d7;
+    background: #5d6acf;
+}
+
+.ui-slider-range.ui-corner-all.ui-widget-header {
+    background: #f5a845;
+}
